@@ -1,0 +1,2 @@
+# MoviesPics_Request
+ 基于Python开发的爬取豆瓣TOP250电影海报工具
